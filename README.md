@@ -16,8 +16,10 @@
 - `Trial 14 finished with value: 1.5216255395557172 and parameters: {'n_layers': 2, 'hidden_size': 138, 'lr': 0.000642707506293048}. Best is trial 12 with value: 1.4454028347429757.`
 - `Best Hyperparameters: {'n_layers': 1, 'hidden_size': 170, 'lr': 0.0013095215918183867}`
 ### Results:
-Test Loss: 1.429877  
-Test Accuracy: 60% (6043/10000)
+Test Loss: 1.403398
+
+
+Test Accuracy: 60% (6092/10000)
 
 ## Tuning part 2
 - Trial 0 finished with value: 1.9591456586188012 and parameters: {'n_layers': 5, 'hidden_size': 422, 'lr': 0.0003374763707862177, 'dropout_rate': 0.38500494883853087, 'batch_size': 111}. Best is trial 0 with value: 1.9591456586188012.
