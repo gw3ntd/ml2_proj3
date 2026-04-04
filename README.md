@@ -18,3 +18,21 @@
 ### Results:
 Test Loss: 1.429877  
 Test Accuracy: 60% (6043/10000)
+
+## Tuning part 2
+- Trial 0 finished with value: 1.9591456586188012 and parameters: {'n_layers': 5, 'hidden_size': 422, 'lr': 0.0003374763707862177, 'dropout_rate': 0.38500494883853087, 'batch_size': 111}. Best is trial 0 with value: 1.9591456586188012.
+- Trial 1 finished with value: 4.634632445067811 and parameters: {'n_layers': 7, 'hidden_size': 401, 'lr': 0.07240408175922944, 'dropout_rate': 0.7846088797503609, 'batch_size': 36}. Best is trial 0 with value: 1.9591456586188012.
+- Trial 2 finished with value: 1.6733341658464536 and parameters: {'n_layers': 4, 'hidden_size': 398, 'lr': 0.0010149848550374389, 'dropout_rate': 0.13434683987568638, 'batch_size': 42}. Best is trial 2 with value: 1.6733341658464536.
+- Trial 3 finished with value: 1.7327191564771864 and parameters: {'n_layers': 3, 'hidden_size': 470, 'lr': 0.0009315486289765911, 'dropout_rate': 0.8939170195240286, 'batch_size': 62}. Best is trial 2 with value: 1.6733341658464536.
+- Trial 4 finished with value: 4.184608840942383 and parameters: {'n_layers': 7, 'hidden_size': 190, 'lr': 0.021923499563800096, 'dropout_rate': 0.16459514358875466, 'batch_size': 155}. Best is trial 2 with value: 1.6733341658464536.
+- Trial 5 finished with value: 4.0313679299703455 and parameters: {'n_layers': 6, 'hidden_size': 335, 'lr': 0.01631649565487934, 'dropout_rate': 0.4311002773229011, 'batch_size': 244}. Best is trial 2 with value: 1.6733341658464536.
+- Trial 6 finished with value: 4.610740653804092 and parameters: {'n_layers': 8, 'hidden_size': 151, 'lr': 0.01653099029630758, 'dropout_rate': 0.2764246006652954, 'batch_size': 41}. Best is trial 2 with value: 1.6733341658464536.
+- Trial 7 finished with value: 1.6999787040378735 and parameters: {'n_layers': 4, 'hidden_size': 511, 'lr': 0.0011098065997105085, 'dropout_rate': 0.15667943466147688, 'batch_size': 219}. Best is trial 2 with value: 1.6733341658464536.
+- Trial 8 finished with value: 4.606983835735019 and parameters: {'n_layers': 8, 'hidden_size': 390, 'lr': 0.0003711214453186664, 'dropout_rate': 0.8140525007438965, 'batch_size': 159}. Best is trial 2 with value: 1.6733341658464536.
+- Trial 9 finished with value: 4.632335607395616 and parameters: {'n_layers': 8, 'hidden_size': 357, 'lr': 0.06882732329600046, 'dropout_rate': 0.8311191212121382, 'batch_size': 234}. Best is trial 2 with value: 1.6733341658464536.
+- Trial 10 finished with value: 1.7499182424812674 and parameters: {'n_layers': 1, 'hidden_size': 253, 'lr': 0.00013175911284938428, 'dropout_rate': 0.5759206143922224, 'batch_size': 94}. Best is trial 2 with value: 1.6733341658464536.
+- Trial 11 finished with value: 1.7815365903782394 and parameters: {'n_layers': 4, 'hidden_size': 507, 'lr': 0.002630623451147307, 'dropout_rate': 0.11260327624133848, 'batch_size': 192}. Best is trial 2 with value: 1.6733341658464536.
+- Trial 12 finished with value: 1.495607683291802 and parameters: {'n_layers': 2, 'hidden_size': 464, 'lr': 0.00262044778178876, 'dropout_rate': 0.2326505128243023, 'batch_size': 193}. Best is trial 12 with value: 1.495607683291802.
+- Trial 13 finished with value: 1.5314487630670721 and parameters: {'n_layers': 1, 'hidden_size': 278, 'lr': 0.005036947858970615, 'dropout_rate': 0.28704505401943714, 'batch_size': 184}. Best is trial 12 with value: 1.495607683291802.
+- Trial 14 finished with value: 1.5170875332572245 and parameters: {'n_layers': 1, 'hidden_size': 246, 'lr': 0.0047231405018964764, 'dropout_rate': 0.294206439865664, 'batch_size': 185}. Best is trial 12 with value: 1.495607683291802.
+- Best Hyperparameters: {'n_layers': 2, 'hidden_size': 464, 'lr': 0.00262044778178876, 'dropout_rate': 0.2326505128243023, 'batch_size': 193}
