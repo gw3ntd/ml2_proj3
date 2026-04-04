@@ -36,3 +36,10 @@ Test Accuracy: 60% (6043/10000)
 - Trial 13 finished with value: 1.5314487630670721 and parameters: {'n_layers': 1, 'hidden_size': 278, 'lr': 0.005036947858970615, 'dropout_rate': 0.28704505401943714, 'batch_size': 184}. Best is trial 12 with value: 1.495607683291802.
 - Trial 14 finished with value: 1.5170875332572245 and parameters: {'n_layers': 1, 'hidden_size': 246, 'lr': 0.0047231405018964764, 'dropout_rate': 0.294206439865664, 'batch_size': 185}. Best is trial 12 with value: 1.495607683291802.
 - Best Hyperparameters: {'n_layers': 2, 'hidden_size': 464, 'lr': 0.00262044778178876, 'dropout_rate': 0.2326505128243023, 'batch_size': 193}
+### Results
+Test Loss: 1.761621
+
+
+Test Accuracy: 52% (5213/10000)
+
+
