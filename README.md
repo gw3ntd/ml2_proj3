@@ -45,3 +45,20 @@ Test Loss: 1.761621
 Test Accuracy: 52% (5213/10000)
 
 
+## Tuning part 3
+- Trial 0 finished with value: 2.098655831318694 and parameters: {'n_layers': 8, 'hidden_size': 366, 'lr': 0.009648618517271534}. Best is trial 0 with value: 2.098655831318694.
+- Trial 1 finished with value: 1.9039872667659967 and parameters: {'n_layers': 5, 'hidden_size': 257, 'lr': 0.017854239972681537}. Best is trial 1 with value: 1.9039872667659967.
+- Trial 2 finished with value: 2.144679446189929 and parameters: {'n_layers': 9, 'hidden_size': 411, 'lr': 0.00385599535598684}. Best is trial 1 with value: 1.9039872667659967.
+- Trial 3 finished with value: 1.5666359036494368 and parameters: {'n_layers': 1, 'hidden_size': 366, 'lr': 0.010915582085111418}. Best is trial 3 with value: 1.5666359036494368.
+- Trial 4 finished with value: 1.5896478102991756 and parameters: {'n_layers': 2, 'hidden_size': 205, 'lr': 0.005017915285369833}. Best is trial 3 with value: 1.5666359036494368.
+- Trial 5 finished with value: 1.7941645357174614 and parameters: {'n_layers': 6, 'hidden_size': 297, 'lr': 0.0025147228648819877}. Best is trial 3 with value: 1.5666359036494368.
+- Trial 6 finished with value: 1.4515195776479313 and parameters: {'n_layers': 1, 'hidden_size': 206, 'lr': 0.002193451411259431}. Best is trial 6 with value: 1.4515195776479313.
+- Trial 7 finished with value: 1.5707203022207314 and parameters: {'n_layers': 2, 'hidden_size': 352, 'lr': 0.001058219341115405}. Best is trial 6 with value: 1.4515195776479313.
+- Trial 8 finished with value: 1.9234101136271564 and parameters: {'n_layers': 9, 'hidden_size': 167, 'lr': 0.0001918567496068044}. Best is trial 6 with value: 1.4515195776479313.
+- Trial 9 finished with value: 1.4659981421007515 and parameters: {'n_layers': 1, 'hidden_size': 307, 'lr': 0.003663826434259621}. Best is trial 6 with value: 1.4515195776479313.
+-  Trial 10 finished with value: 3.402233006474309 and parameters: {'n_layers': 4, 'hidden_size': 135, 'lr': 0.09430394537648591}. Best is trial 6 with value: 1.4515195776479313.
+-  Trial 11 finished with value: 1.498654907503829 and parameters: {'n_layers': 3, 'hidden_size': 508, 'lr': 0.0006580662673298042}. Best is trial 6 with value: 1.4515195776479313.
+-   Trial 12 finished with value: 1.4715929867360538 and parameters: {'n_layers': 1, 'hidden_size': 252, 'lr': 0.0012403252094084858}. Best is trial 6 with value: 1.4515195776479313.
+- Trial 13 finished with value: 1.671437476199275 and parameters: {'n_layers': 6, 'hidden_size': 214, 'lr': 0.0002164020322949068}. Best is trial 6 with value: 1.4515195776479313.
+- Trial 14 finished with value: 2.2126412026036664 and parameters: {'n_layers': 4, 'hidden_size': 301, 'lr': 0.06049182655420824}. Best is trial 6 with value: 1.4515195776479313.
+- Best Hyperparameters: {'n_layers': 1, 'hidden_size': 206, 'lr': 0.002193451411259431}
