@@ -62,3 +62,9 @@ Test Accuracy: 52% (5213/10000)
 - Trial 13 finished with value: 1.671437476199275 and parameters: {'n_layers': 6, 'hidden_size': 214, 'lr': 0.0002164020322949068}. Best is trial 6 with value: 1.4515195776479313.
 - Trial 14 finished with value: 2.2126412026036664 and parameters: {'n_layers': 4, 'hidden_size': 301, 'lr': 0.06049182655420824}. Best is trial 6 with value: 1.4515195776479313.
 - Best Hyperparameters: {'n_layers': 1, 'hidden_size': 206, 'lr': 0.002193451411259431}
+
+### Results
+Test Loss: 1.331555
+
+
+Test Accuracy: 63% (6319/10000)
