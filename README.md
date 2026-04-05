@@ -86,3 +86,8 @@ Test Accuracy: 63% (6319/10000)
 - Trial 13 finished with value: 1.4006770445515935 and parameters: {'hidden_size1': 457, 'hidden_size2': 171, 'lr': 0.00011430772216093208, 'dropout1': 0.3721058617355553, 'dropout2': 0.39754944931742786}. Best is trial 13 with value: 1.4006770445515935.
 - Trial 14 finished with value: 1.508273323694357 and parameters: {'hidden_size1': 510, 'hidden_size2': 179, 'lr': 0.0018654745866160003, 'dropout1': 0.3479488455045322, 'dropout2': 0.41826424004359175}. Best is trial 13 with value: 1.4006770445515935.
 - Best Hyperparameters: {'hidden_size1': 457, 'hidden_size2': 171, 'lr': 0.00011430772216093208, 'dropout1': 0.3721058617355553, 'dropout2': 0.39754944931742786}
+### Results 
+Test Loss: 1.402339
+
+
+Test Accuracy: 61% (6136/10000)
