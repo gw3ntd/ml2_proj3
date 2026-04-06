@@ -70,22 +70,24 @@ Test Loss: 1.331555
 Test Accuracy: 63% (6319/10000)
 
 ## Tuning Part 4
-- Trial 0 finished with value: 4.619250200046137 and parameters: {'hidden_size1': 197, 'hidden_size2': 196, 'lr': 0.033663270495307686, 'dropout1': 0.34928551541356145, 'dropout2': 0.36950349511128144}. Best is trial 0 with value: 4.619250200046137.
-- Trial 1 finished with value: 1.4906820171176436 and parameters: {'hidden_size1': 496, 'hidden_size2': 79, 'lr': 0.0007285624432459444, 'dropout1': 0.20527061757057236, 'dropout2': 0.30577715270073125}. Best is trial 1 with value: 1.4906820171176436.
-- Trial 2 finished with value: 1.5296673662365434 and parameters: {'hidden_size1': 368, 'hidden_size2': 168, 'lr': 0.0028104064021162644, 'dropout1': 0.2733770288863498, 'dropout2': 0.2602138869027261}. Best is trial 1 with value: 1.4906820171176436.
-- Trial 3 finished with value: 4.625779092502289 and parameters: {'hidden_size1': 414, 'hidden_size2': 215, 'lr': 0.05405003998515066, 'dropout1': 0.43716252894595786, 'dropout2': 0.32292343189518224}. Best is trial 1 with value: 1.4906820171176436.
-- Trial 4 finished with value: 1.4581564282076047 and parameters: {'hidden_size1': 389, 'hidden_size2': 112, 'lr': 0.0006336315750627383, 'dropout1': 0.44608249063311245, 'dropout2': 0.2942217149099917}. Best is trial 4 with value: 1.4581564282076047.
-- Trial 5 finished with value: 1.494107629544438 and parameters: {'hidden_size1': 174, 'hidden_size2': 102, 'lr': 0.0005700825306660686, 'dropout1': 0.20896421530907783, 'dropout2': 0.23694053776938853}. Best is trial 4 with value: 1.4581564282076047.
-- Trial 6 finished with value: 1.7864065235034345 and parameters: {'hidden_size1': 317, 'hidden_size2': 77, 'lr': 0.00857613298590953, 'dropout1': 0.4657968107117027, 'dropout2': 0.43337894443688046}. Best is trial 4 with value: 1.4581564282076047.
-- Trial 7 finished with value: 1.4873251440806892 and parameters: {'hidden_size1': 304, 'hidden_size2': 95, 'lr': 0.0002928791891311119, 'dropout1': 0.48001554633014276, 'dropout2': 0.4412382889558139}. Best is trial 4 with value: 1.4581564282076047.
-- Trial 8 finished with value: 1.6936447742267158 and parameters: {'hidden_size1': 243, 'hidden_size2': 131, 'lr': 0.006392751419377939, 'dropout1': 0.247176547730513, 'dropout2': 0.46664612558189505}. Best is trial 4 with value: 1.4581564282076047.
-- Trial 9 finished with value: 4.61824855865381 and parameters: {'hidden_size1': 292, 'hidden_size2': 222, 'lr': 0.02400225720633437, 'dropout1': 0.29338391402329145, 'dropout2': 0.20064000390834463}. Best is trial 4 with value: 1.4581564282076047.
-- Trial 10 finished with value: 1.4159149462803484 and parameters: {'hidden_size1': 463, 'hidden_size2': 141, 'lr': 0.00010697189242426523, 'dropout1': 0.40849806222281515, 'dropout2': 0.37604228968659936}. Best is trial 10 with value: 1.4159149462803484.
-- Trial 11 finished with value: 1.4481569739957205 and parameters: {'hidden_size1': 467, 'hidden_size2': 140, 'lr': 0.00011270354778692591, 'dropout1': 0.4043465570679774, 'dropout2': 0.3817186789266497}. Best is trial 10 with value: 1.4159149462803484.
-- Trial 12 finished with value: 1.4130156613386478 and parameters: {'hidden_size1': 509, 'hidden_size2': 149, 'lr': 0.0001043344193894159, 'dropout1': 0.3876992464773432, 'dropout2': 0.3868876414761358}. Best is trial 12 with value: 1.4130156613386478.
-- Trial 13 finished with value: 1.4006770445515935 and parameters: {'hidden_size1': 457, 'hidden_size2': 171, 'lr': 0.00011430772216093208, 'dropout1': 0.3721058617355553, 'dropout2': 0.39754944931742786}. Best is trial 13 with value: 1.4006770445515935.
-- Trial 14 finished with value: 1.508273323694357 and parameters: {'hidden_size1': 510, 'hidden_size2': 179, 'lr': 0.0018654745866160003, 'dropout1': 0.3479488455045322, 'dropout2': 0.41826424004359175}. Best is trial 13 with value: 1.4006770445515935.
-- Best Hyperparameters: {'hidden_size1': 457, 'hidden_size2': 171, 'lr': 0.00011430772216093208, 'dropout1': 0.3721058617355553, 'dropout2': 0.39754944931742786}
+- Trial 0 finished with value: 1.7358316885777556 and parameters: {'hidden_size1': 454, 'hidden_size2': 93, 'lr': 0.035537986439878544, 'dropout1': 0.3606426052385843}. Best is trial 0 with value: 1.7358316885777556.
+- Trial 1 finished with value: 1.6521291353832037 and parameters: {'hidden_size1': 208, 'hidden_size2': 126, 'lr': 0.012445480406523705, 'dropout1': 0.33243653353863956}. Best is trial 1 with value: 1.6521291353832037.
+- Trial 2 finished with value: 1.8588238135694315 and parameters: {'hidden_size1': 298, 'hidden_size2': 71, 'lr': 0.052994704271995124, 'dropout1': 0.493574285388068}. Best is trial 1 with value: 1.6521291353832037.
+- Trial 3 finished with value: 1.4778016101057156 and parameters: {'hidden_size1': 412, 'hidden_size2': 123, 'lr': 0.0014931024353952724, 'dropout1': 0.26877954246296276}. Best is trial 3 with value: 1.4778016101057156.
+- Trial 4 finished with value: 1.5261114479634708 and parameters: {'hidden_size1': 288, 'hidden_size2': 247, 'lr': 0.002541406515855382, 'dropout1': 0.45414217797697964}. Best is trial 3 with value: 1.4778016101057156.
+- Trial 5 finished with value: 1.527372245780957 and parameters: {'hidden_size1': 217, 'hidden_size2': 92, 'lr': 0.0017814051666356645, 'dropout1': 0.2207711311389212}. Best is trial 3 with value: 1.4778016101057156.
+- Trial 6 finished with value: 1.689135690085804 and parameters: {'hidden_size1': 426, 'hidden_size2': 115, 'lr': 0.022577520508724726, 'dropout1': 0.2714771785096146}. Best is trial 3 with value: 1.4778016101057156.
+- Trial 7 finished with value: 1.669496024949863 and parameters: {'hidden_size1': 470, 'hidden_size2': 162, 'lr': 0.015471291678441032, 'dropout1': 0.3512208831392736}. Best is trial 3 with value: 1.4778016101057156.
+- Trial 8 finished with value: 1.4095598920084798 and parameters: {'hidden_size1': 190, 'hidden_size2': 233, 'lr': 0.0004270995999822072, 'dropout1': 0.4332552937208475}. Best is trial 8 with value: 1.4095598920084798.
+- Trial 9 finished with value: 1.4389718171125783 and parameters: {'hidden_size1': 319, 'hidden_size2': 227, 'lr': 0.0006827224069928549, 'dropout1': 0.42391756153684035}. Best is trial 8 with value: 1.4095598920084798.
+- Trial 10 finished with value: 1.4554378148465872 and parameters: {'hidden_size1': 143, 'hidden_size2': 199, 'lr': 0.00012429310028152835, 'dropout1': 0.41611998522680294}. Best is trial 8 with value: 1.4095598920084798.
+- Trial 11 finished with value: 1.3874568034665653 and parameters: {'hidden_size1': 361, 'hidden_size2': 256, 'lr': 0.00030772498079833675, 'dropout1': 0.41662000981236136}. Best is trial 11 with value: 1.3874568034665653.
+- Trial 12 finished with value: 1.3743533758690563 and parameters: {'hidden_size1': 391, 'hidden_size2': 251, 'lr': 0.0001802580568221844, 'dropout1': 0.3886982740722661}. Best is trial 12 with value: 1.3743533758690563.
+- Trial 13 finished with value: 1.3707970354122856 and parameters: {'hidden_size1': 372, 'hidden_size2': 199, 'lr': 0.0001081153035018974, 'dropout1': 0.38573786144706623}. Best is trial 13 with value: 1.3707970354122856.
+- Trial 14 finished with value: 1.3824288483244924 and parameters: {'hidden_size1': 511, 'hidden_size2': 192, 'lr': 0.00013814878518579485, 'dropout1': 0.3868949442074953}. Best is trial 13 with value: 1.3707970354122856.
+- Best Hyperparameters: {'hidden_size1': 372, 'hidden_size2': 199, 'lr': 0.0001081153035018974, 'dropout1': 0.38573786144706623}
+
+
 ### Results 
 Test Loss: 1.402339
 
