@@ -18,6 +18,12 @@
 - Trial 14 finished with value: 1.3482377822406757 and parameters: {'lr': 0.0011241172315520048}. Best is trial 14 with value: 1.3482377822406757.
 - Best Hyperparameters: {'lr': 0.0011241172315520048}
 
+### Results:
+Test Loss: 1.273318
+
+
+Test Accuracy: 64% (6445/10000)
+
 ## Tuning part 1
 - `Trial 0 finished with value: 2.333424706809437 and parameters: {'n_layers': 2, 'hidden_size': 483, 'lr': 0.008965903480872287}. Best is trial 0 with value: 2.333424706809437.`
 - `Trial 1 finished with value: 1.8277506112290647 and parameters: {'n_layers': 5, 'hidden_size': 391, 'lr': 0.00046560969718453343}. Best is trial 1 with value: 1.8277506112290647.`
