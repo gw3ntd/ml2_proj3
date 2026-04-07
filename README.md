@@ -89,7 +89,7 @@ Test Accuracy: 63% (6319/10000)
 
 
 ### Results 
-Test Loss: 1.402339
+Test Loss: 1.274914
 
 
-Test Accuracy: 61% (6136/10000)
+Test Accuracy: 63% (6371/10000)
