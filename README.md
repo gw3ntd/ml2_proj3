@@ -1,4 +1,24 @@
 # Hyperparameter Tuning Results
+
+## Baseline
+- Trial 0 finished with value: 2.453234445172758 and parameters: {'lr': 0.008610325125313767}. Best is trial 0 with value: 2.453234445172758.
+- Trial 1 finished with value: 1.409660733545931 and parameters: {'lr': 0.0006682758264791116}. Best is trial 1 with value: 1.409660733545931.
+- Trial 2 finished with value: 13.258499247578387 and parameters: {'lr': 0.05404306335966347}. Best is trial 1 with value: 1.409660733545931.
+- Trial 3 finished with value: 22.78424322719391 and parameters: {'lr': 0.09350877042121394}. Best is trial 1 with value: 1.409660733545931.
+- Trial 4 finished with value: 9.623510928961416 and parameters: {'lr': 0.04045732493234037}. Best is trial 1 with value: 1.409660733545931.
+- Trial 5 finished with value: 1.5977269072121325 and parameters: {'lr': 0.004163965647476246}. Best is trial 1 with value: 1.409660733545931.
+- Trial 6 finished with value: 4.167299867057191 and parameters: {'lr': 0.01643415407487447}. Best is trial 1 with value: 1.409660733545931.
+- Trial 7 finished with value: 2.5369169369292335 and parameters: {'lr': 0.009690692447152949}. Best is trial 1 with value: 1.409660733545931.
+- Trial 8 finished with value: 9.130723001857916 and parameters: {'lr': 0.03864267377715014}. Best is trial 1 with value: 1.409660733545931.
+- Trial 9 finished with value: 6.376114318926875 and parameters: {'lr': 0.02497080833264791}. Best is trial 1 with value: 1.409660733545931.
+- Trial 10 finished with value: 1.58216986050621 and parameters: {'lr': 0.000290065668391585}. Best is trial 1 with value: 1.409660733545931.
+- Trial 11 finished with value: 1.5735410470932056 and parameters: {'lr': 0.0003046529357412648}. Best is trial 1 with value: 1.409660733545931.
+- Trial 12 finished with value: 1.4728620309418383 and parameters: {'lr': 0.00040450861195936636}. Best is trial 1 with value: 1.409660733545931.
+- Trial 13 finished with value: 1.3536005048706128 and parameters: {'lr': 0.0009038689858584112}. Best is trial 13 with value: 1.3536005048706128.
+- Trial 14 finished with value: 1.3482377822406757 and parameters: {'lr': 0.0011241172315520048}. Best is trial 14 with value: 1.3482377822406757.
+- Best Hyperparameters: {'lr': 0.0011241172315520048}
+
+## Tuning part 1
 - `Trial 0 finished with value: 2.333424706809437 and parameters: {'n_layers': 2, 'hidden_size': 483, 'lr': 0.008965903480872287}. Best is trial 0 with value: 2.333424706809437.`
 - `Trial 1 finished with value: 1.8277506112290647 and parameters: {'n_layers': 5, 'hidden_size': 391, 'lr': 0.00046560969718453343}. Best is trial 1 with value: 1.8277506112290647.`
 - `Trial 2 finished with value: 1.514798895809978 and parameters: {'n_layers': 1, 'hidden_size': 406, 'lr': 0.0019119002640569805}. Best is trial 2 with value: 1.514798895809978.`
